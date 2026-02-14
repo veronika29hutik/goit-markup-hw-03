@@ -147,7 +147,6 @@ a {
   letter-spacing: 0.02em;
   color: #fff;
   max-width: 496px;
-  margin: o auto;
   text-align: center;
 }
 
@@ -183,7 +182,6 @@ a {
 .team-list {
   display: flex;
   gap: 24px;
-  padding: 32px 16px;
 }
 
 .team-item {
@@ -241,10 +239,6 @@ a {
   margin-bottom: 8px;
 }
 
-.benefits {
-  padding: 120px o;
-}
-
 .benefits-list {
   display: flex;
   gap: 24px;
@@ -285,7 +279,6 @@ a {
   flex-wrap: wrap;
   gap: 24px;
   row-gap: 48px;
-  padding: 120px 0;
 }
 
 .portfolio-item {
